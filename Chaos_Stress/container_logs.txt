@@ -1,0 +1,1329 @@
+74afd9af582b   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   2.91%     8.219MiB / 3.841GiB   0.21%     22.1MB / 251kB   0B / 24.2MB   6
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED              STATUS              PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   50 seconds ago       Up 49 seconds                 busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   About a minute ago   Up About a minute             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   2 minutes ago        Up 2 minutes                  busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   3.53%     8.605MiB / 3.841GiB   0.22%     25.3MB / 289kB   0B / 27.3MB   6
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED              STATUS              PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   57 seconds ago       Up 56 seconds                 busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   About a minute ago   Up About a minute             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   2 minutes ago        Up 2 minutes                  busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   4 minutes ago        Up 4 minutes                  busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   8.67%     101.3MiB / 3.841GiB   2.57%     27.1MB / 309kB   0B / 29.9MB   3
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED              STATUS              PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   About a minute ago   Up About a minute             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   2 minutes ago        Up 2 minutes                  busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   2 minutes ago        Up 2 minutes                  busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   4 minutes ago        Up 4 minutes                  busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 31.2MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED              STATUS              PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   About a minute ago   Up About a minute             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   2 minutes ago        Up 2 minutes                  busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   4 minutes ago        Up 4 minutes                  busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 59MB     1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED              STATUS              PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   About a minute ago   Up About a minute             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   2 minutes ago        Up 2 minutes                  busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   4 minutes ago        Up 4 minutes                  busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 64.2MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED              STATUS              PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   About a minute ago   Up About a minute             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   2 minutes ago        Up 2 minutes                  busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   4 minutes ago        Up 4 minutes                  busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 68.7MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED              STATUS              PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   About a minute ago   Up About a minute             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   2 minutes ago        Up 2 minutes                  busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   4 minutes ago        Up 4 minutes                  busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   4 minutes ago        Up 4 minutes                  busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED              STATUS              PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   About a minute ago   Up About a minute             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   2 minutes ago        Up 2 minutes                  busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   4 minutes ago        Up 4 minutes                  busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   4 minutes ago        Up 4 minutes                  busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED              STATUS              PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   About a minute ago   Up About a minute             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   2 minutes ago        Up 2 minutes                  busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   4 minutes ago        Up 4 minutes                  busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   4 minutes ago        Up 4 minutes                  busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED              STATUS              PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   About a minute ago   Up About a minute             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   2 minutes ago        Up 2 minutes                  busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   3 minutes ago        Up 3 minutes                  busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   4 minutes ago        Up 4 minutes                  busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   5 minutes ago        Up 5 minutes                  busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   2 minutes ago   Up 2 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   2 minutes ago   Up 2 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   2 minutes ago   Up 2 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   2 minutes ago   Up 2 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   2 minutes ago   Up 2 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   2 minutes ago   Up 2 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   2 minutes ago   Up 2 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   2 minutes ago   Up 2 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   3 minutes ago   Up 3 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   4 minutes ago   Up 4 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   5 minutes ago   Up 5 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   9 minutes ago   Up 9 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   9 minutes ago   Up 9 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   9 minutes ago   Up 9 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   9 minutes ago   Up 9 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   9 minutes ago   Up 9 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   9 minutes ago   Up 9 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   9 minutes ago   Up 9 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   9 minutes ago   Up 9 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   9 minutes ago   Up 9 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED         STATUS         PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   6 minutes ago   Up 6 minutes             busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   7 minutes ago   Up 7 minutes             busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   8 minutes ago   Up 8 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   9 minutes ago   Up 9 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   9 minutes ago   Up 9 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   6 minutes ago    Up 6 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   7 minutes ago    Up 7 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   7 minutes ago    Up 7 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   7 minutes ago    Up 7 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   7 minutes ago    Up 7 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   7 minutes ago    Up 7 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   7 minutes ago    Up 7 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   7 minutes ago    Up 7 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   7 minutes ago    Up 7 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 7 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   11 minutes ago   Up 11 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   11 minutes ago   Up 11 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   11 minutes ago   Up 11 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   11 minutes ago   Up 11 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   11 minutes ago   Up 11 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   11 minutes ago   Up 11 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   11 minutes ago   Up 11 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   11 minutes ago   Up 11 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   11 minutes ago   Up 11 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   8 minutes ago    Up 8 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   11 minutes ago   Up 11 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   12 minutes ago   Up 11 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+738c1b33b353   busybox-victim-5   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 309kB   0B / 71.3MB   1
+472f818cb5e3   busybox-victim-4   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 311kB   0B / 71.3MB   1
+951f4b10a6be   busybox-victim-3   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.3MB   1
+f2332ccac932   busybox-victim-2   0.00%     42.41MiB / 3.841GiB   1.08%     27.1MB / 296kB   0B / 71.3MB   1
+74afd9af582b   busybox-victim-1   0.00%     42.42MiB / 3.841GiB   1.08%     27.1MB / 284kB   0B / 71.2MB   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE           COMMAND       CREATED          STATUS          PORTS     NAMES
+738c1b33b353   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-5
+472f818cb5e3   ubuntu:latest   "/bin/bash"   9 minutes ago    Up 9 minutes              busybox-victim-4
+951f4b10a6be   ubuntu:latest   "/bin/bash"   10 minutes ago   Up 10 minutes             busybox-victim-3
+f2332ccac932   ubuntu:latest   "/bin/bash"   11 minutes ago   Up 11 minutes             busybox-victim-2
+74afd9af582b   ubuntu:latest   "/bin/bash"   12 minutes ago   Up 12 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JRotating logs...
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED         STATUS         PORTS     NAMES
+b333d20d8180   busybox   "sh"      2 seconds ago   Up 1 second              busybox-victim-5
+8ec5768e98cd   busybox   "sh"      2 seconds ago   Up 2 seconds             busybox-victim-4
+a451450bb929   busybox   "sh"      2 seconds ago   Up 2 seconds             busybox-victim-3
+de7556989401   busybox   "sh"      4 seconds ago   Up 2 seconds             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      5 seconds ago   Up 4 seconds             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O     BLOCK I/O   PIDS
+b333d20d8180   busybox-victim-5   0.00%     448KiB / 3.841GiB   0.01%     516B / 0B   0B / 0B     1
+8ec5768e98cd   busybox-victim-4   0.00%     448KiB / 3.841GiB   0.01%     516B / 0B   0B / 0B     1
+a451450bb929   busybox-victim-3   0.00%     456KiB / 3.841GiB   0.01%     516B / 0B   0B / 0B     1
+de7556989401   busybox-victim-2   0.00%     448KiB / 3.841GiB   0.01%     516B / 0B   0B / 0B     1
+093e03cb4e6e   busybox-victim-1   0.00%     456KiB / 3.841GiB   0.01%     806B / 0B   0B / 0B     1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED          STATUS          PORTS     NAMES
+b333d20d8180   busybox   "sh"      10 seconds ago   Up 9 seconds              busybox-victim-5
+8ec5768e98cd   busybox   "sh"      10 seconds ago   Up 9 seconds              busybox-victim-4
+a451450bb929   busybox   "sh"      10 seconds ago   Up 10 seconds             busybox-victim-3
+de7556989401   busybox   "sh"      12 seconds ago   Up 10 seconds             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      13 seconds ago   Up 12 seconds             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O     BLOCK I/O   PIDS
+b333d20d8180   busybox-victim-5   0.00%     448KiB / 3.841GiB   0.01%     586B / 0B   0B / 0B     1
+8ec5768e98cd   busybox-victim-4   0.00%     448KiB / 3.841GiB   0.01%     586B / 0B   0B / 0B     1
+a451450bb929   busybox-victim-3   0.00%     456KiB / 3.841GiB   0.01%     586B / 0B   0B / 0B     1
+de7556989401   busybox-victim-2   0.00%     448KiB / 3.841GiB   0.01%     586B / 0B   0B / 0B     1
+093e03cb4e6e   busybox-victim-1   0.00%     456KiB / 3.841GiB   0.01%     876B / 0B   0B / 0B     1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED          STATUS          PORTS     NAMES
+b333d20d8180   busybox   "sh"      19 seconds ago   Up 17 seconds             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      19 seconds ago   Up 18 seconds             busybox-victim-4
+a451450bb929   busybox   "sh"      19 seconds ago   Up 18 seconds             busybox-victim-3
+de7556989401   busybox   "sh"      21 seconds ago   Up 19 seconds             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      22 seconds ago   Up 20 seconds             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O     BLOCK I/O   PIDS
+b333d20d8180   busybox-victim-5   0.00%     448KiB / 3.841GiB   0.01%     656B / 0B   0B / 0B     1
+8ec5768e98cd   busybox-victim-4   0.00%     448KiB / 3.841GiB   0.01%     656B / 0B   0B / 0B     1
+a451450bb929   busybox-victim-3   0.00%     456KiB / 3.841GiB   0.01%     656B / 0B   0B / 0B     1
+de7556989401   busybox-victim-2   0.00%     448KiB / 3.841GiB   0.01%     656B / 0B   0B / 0B     1
+093e03cb4e6e   busybox-victim-1   0.00%     456KiB / 3.841GiB   0.01%     876B / 0B   0B / 0B     1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED          STATUS          PORTS     NAMES
+b333d20d8180   busybox   "sh"      26 seconds ago   Up 25 seconds             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      26 seconds ago   Up 25 seconds             busybox-victim-4
+a451450bb929   busybox   "sh"      26 seconds ago   Up 26 seconds             busybox-victim-3
+de7556989401   busybox   "sh"      28 seconds ago   Up 26 seconds             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      29 seconds ago   Up 27 seconds             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O     BLOCK I/O   PIDS
+b333d20d8180   busybox-victim-5   0.00%     448KiB / 3.841GiB   0.01%     656B / 0B   0B / 0B     1
+8ec5768e98cd   busybox-victim-4   0.00%     448KiB / 3.841GiB   0.01%     656B / 0B   0B / 0B     1
+a451450bb929   busybox-victim-3   0.00%     456KiB / 3.841GiB   0.01%     656B / 0B   0B / 0B     1
+de7556989401   busybox-victim-2   0.00%     448KiB / 3.841GiB   0.01%     656B / 0B   0B / 0B     1
+093e03cb4e6e   busybox-victim-1   0.00%     456KiB / 3.841GiB   0.01%     946B / 0B   0B / 0B     1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED          STATUS          PORTS     NAMES
+b333d20d8180   busybox   "sh"      34 seconds ago   Up 32 seconds             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      34 seconds ago   Up 33 seconds             busybox-victim-4
+a451450bb929   busybox   "sh"      34 seconds ago   Up 33 seconds             busybox-victim-3
+de7556989401   busybox   "sh"      36 seconds ago   Up 34 seconds             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      37 seconds ago   Up 35 seconds             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O     BLOCK I/O   PIDS
+b333d20d8180   busybox-victim-5   0.00%     448KiB / 3.841GiB   0.01%     656B / 0B   0B / 0B     1
+8ec5768e98cd   busybox-victim-4   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B   0B / 0B     1
+a451450bb929   busybox-victim-3   0.00%     456KiB / 3.841GiB   0.01%     726B / 0B   0B / 0B     1
+de7556989401   busybox-victim-2   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B   0B / 0B     1
+093e03cb4e6e   busybox-victim-1   0.00%     456KiB / 3.841GiB   0.01%     946B / 0B   0B / 0B     1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED          STATUS          PORTS     NAMES
+b333d20d8180   busybox   "sh"      41 seconds ago   Up 40 seconds             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      41 seconds ago   Up 41 seconds             busybox-victim-4
+a451450bb929   busybox   "sh"      41 seconds ago   Up 41 seconds             busybox-victim-3
+de7556989401   busybox   "sh"      43 seconds ago   Up 41 seconds             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      44 seconds ago   Up 43 seconds             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O     BLOCK I/O   PIDS
+b333d20d8180   busybox-victim-5   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B   0B / 0B     1
+8ec5768e98cd   busybox-victim-4   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B   0B / 0B     1
+a451450bb929   busybox-victim-3   0.00%     456KiB / 3.841GiB   0.01%     726B / 0B   0B / 0B     1
+de7556989401   busybox-victim-2   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B   0B / 0B     1
+093e03cb4e6e   busybox-victim-1   0.00%     456KiB / 3.841GiB   0.01%     946B / 0B   0B / 0B     1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED          STATUS          PORTS     NAMES
+b333d20d8180   busybox   "sh"      49 seconds ago   Up 48 seconds             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      49 seconds ago   Up 48 seconds             busybox-victim-4
+a451450bb929   busybox   "sh"      49 seconds ago   Up 48 seconds             busybox-victim-3
+de7556989401   busybox   "sh"      51 seconds ago   Up 49 seconds             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      52 seconds ago   Up 50 seconds             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O     BLOCK I/O   PIDS
+b333d20d8180   busybox-victim-5   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B   0B / 0B     1
+8ec5768e98cd   busybox-victim-4   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B   0B / 0B     1
+a451450bb929   busybox-victim-3   0.00%     456KiB / 3.841GiB   0.01%     726B / 0B   0B / 0B     1
+de7556989401   busybox-victim-2   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B   0B / 0B     1
+093e03cb4e6e   busybox-victim-1   0.00%     456KiB / 3.841GiB   0.01%     946B / 0B   0B / 0B     1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED              STATUS          PORTS     NAMES
+b333d20d8180   busybox   "sh"      57 seconds ago       Up 55 seconds             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      57 seconds ago       Up 56 seconds             busybox-victim-4
+a451450bb929   busybox   "sh"      57 seconds ago       Up 56 seconds             busybox-victim-3
+de7556989401   busybox   "sh"      59 seconds ago       Up 57 seconds             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      About a minute ago   Up 58 seconds             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O   PIDS
+b333d20d8180   busybox-victim-5   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B     0B / 0B     1
+8ec5768e98cd   busybox-victim-4   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B     0B / 0B     1
+a451450bb929   busybox-victim-3   0.00%     456KiB / 3.841GiB   0.01%     726B / 0B     0B / 0B     1
+de7556989401   busybox-victim-2   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B     0B / 0B     1
+093e03cb4e6e   busybox-victim-1   0.00%     456KiB / 3.841GiB   0.01%     1.02kB / 0B   0B / 0B     1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED              STATUS              PORTS     NAMES
+b333d20d8180   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-4
+a451450bb929   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-3
+de7556989401   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O   PIDS
+b333d20d8180   busybox-victim-5   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B     0B / 0B     1
+8ec5768e98cd   busybox-victim-4   0.00%     448KiB / 3.841GiB   0.01%     796B / 0B     0B / 0B     1
+a451450bb929   busybox-victim-3   0.00%     456KiB / 3.841GiB   0.01%     726B / 0B     0B / 0B     1
+de7556989401   busybox-victim-2   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B     0B / 0B     1
+093e03cb4e6e   busybox-victim-1   0.00%     456KiB / 3.841GiB   0.01%     1.02kB / 0B   0B / 0B     1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED              STATUS              PORTS     NAMES
+b333d20d8180   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-4
+a451450bb929   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-3
+de7556989401   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O   PIDS
+b333d20d8180   busybox-victim-5   0.00%     448KiB / 3.841GiB   0.01%     726B / 0B     0B / 0B     1
+8ec5768e98cd   busybox-victim-4   0.00%     448KiB / 3.841GiB   0.01%     796B / 0B     0B / 0B     1
+a451450bb929   busybox-victim-3   0.00%     456KiB / 3.841GiB   0.01%     796B / 0B     0B / 0B     1
+de7556989401   busybox-victim-2   0.00%     448KiB / 3.841GiB   0.01%     796B / 0B     0B / 0B     1
+093e03cb4e6e   busybox-victim-1   0.00%     456KiB / 3.841GiB   0.01%     1.02kB / 0B   0B / 0B     1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED              STATUS              PORTS     NAMES
+b333d20d8180   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-4
+a451450bb929   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-3
+de7556989401   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O       BLOCK I/O   PIDS
+b333d20d8180   busybox-victim-5   0.00%     448KiB / 3.841GiB   0.01%     796B / 0B     0B / 0B     1
+8ec5768e98cd   busybox-victim-4   0.00%     448KiB / 3.841GiB   0.01%     796B / 0B     0B / 0B     1
+a451450bb929   busybox-victim-3   0.00%     456KiB / 3.841GiB   0.01%     796B / 0B     0B / 0B     1
+de7556989401   busybox-victim-2   0.00%     448KiB / 3.841GiB   0.01%     796B / 0B     0B / 0B     1
+093e03cb4e6e   busybox-victim-1   0.00%     456KiB / 3.841GiB   0.01%     1.02kB / 0B   0B / 0B     1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED              STATUS              PORTS     NAMES
+b333d20d8180   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-4
+a451450bb929   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-3
+de7556989401   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O     PIDS
+b333d20d8180   busybox-victim-5   76.28%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+8ec5768e98cd   busybox-victim-4   79.83%    2.48MiB / 3.841GiB    0.06%     796B / 0B     0B / 0B       11
+a451450bb929   busybox-victim-3   77.29%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+de7556989401   busybox-victim-2   80.41%    2.512MiB / 3.841GiB   0.06%     796B / 0B     0B / 0B       11
+093e03cb4e6e   busybox-victim-1   77.67%    2.539MiB / 3.841GiB   0.06%     1.02kB / 0B   73.7kB / 0B   11
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED              STATUS              PORTS     NAMES
+b333d20d8180   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-4
+a451450bb929   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-3
+de7556989401   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O     PIDS
+b333d20d8180   busybox-victim-5   80.19%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+8ec5768e98cd   busybox-victim-4   78.40%    2.48MiB / 3.841GiB    0.06%     796B / 0B     0B / 0B       11
+a451450bb929   busybox-victim-3   79.19%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+de7556989401   busybox-victim-2   79.32%    2.512MiB / 3.841GiB   0.06%     796B / 0B     0B / 0B       11
+093e03cb4e6e   busybox-victim-1   79.60%    2.539MiB / 3.841GiB   0.06%     1.02kB / 0B   73.7kB / 0B   11
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED              STATUS              PORTS     NAMES
+b333d20d8180   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-4
+a451450bb929   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-3
+de7556989401   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O     PIDS
+b333d20d8180   busybox-victim-5   57.92%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+8ec5768e98cd   busybox-victim-4   56.69%    2.48MiB / 3.841GiB    0.06%     796B / 0B     0B / 0B       11
+a451450bb929   busybox-victim-3   58.23%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+de7556989401   busybox-victim-2   58.66%    2.512MiB / 3.841GiB   0.06%     796B / 0B     0B / 0B       11
+093e03cb4e6e   busybox-victim-1   59.39%    2.539MiB / 3.841GiB   0.06%     1.02kB / 0B   73.7kB / 0B   11
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED              STATUS              PORTS     NAMES
+b333d20d8180   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-4
+a451450bb929   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-3
+de7556989401   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O     PIDS
+b333d20d8180   busybox-victim-5   80.62%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+8ec5768e98cd   busybox-victim-4   77.71%    2.48MiB / 3.841GiB    0.06%     796B / 0B     0B / 0B       11
+a451450bb929   busybox-victim-3   76.63%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+de7556989401   busybox-victim-2   82.09%    2.512MiB / 3.841GiB   0.06%     796B / 0B     0B / 0B       11
+093e03cb4e6e   busybox-victim-1   78.06%    2.539MiB / 3.841GiB   0.06%     1.02kB / 0B   73.7kB / 0B   11
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED              STATUS              PORTS     NAMES
+b333d20d8180   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-4
+a451450bb929   busybox   "sh"      About a minute ago   Up About a minute             busybox-victim-3
+de7556989401   busybox   "sh"      2 minutes ago        Up About a minute             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      2 minutes ago        Up 2 minutes                  busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O     PIDS
+b333d20d8180   busybox-victim-5   78.04%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+8ec5768e98cd   busybox-victim-4   78.86%    2.48MiB / 3.841GiB    0.06%     866B / 0B     0B / 0B       11
+a451450bb929   busybox-victim-3   78.11%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+de7556989401   busybox-victim-2   78.23%    2.512MiB / 3.841GiB   0.06%     796B / 0B     0B / 0B       11
+093e03cb4e6e   busybox-victim-1   77.93%    2.539MiB / 3.841GiB   0.06%     1.02kB / 0B   73.7kB / 0B   11
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED         STATUS         PORTS     NAMES
+b333d20d8180   busybox   "sh"      2 minutes ago   Up 2 minutes             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      2 minutes ago   Up 2 minutes             busybox-victim-4
+a451450bb929   busybox   "sh"      2 minutes ago   Up 2 minutes             busybox-victim-3
+de7556989401   busybox   "sh"      2 minutes ago   Up 2 minutes             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      2 minutes ago   Up 2 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O     PIDS
+b333d20d8180   busybox-victim-5   76.46%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+8ec5768e98cd   busybox-victim-4   75.78%    2.48MiB / 3.841GiB    0.06%     866B / 0B     0B / 0B       11
+a451450bb929   busybox-victim-3   77.68%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+de7556989401   busybox-victim-2   74.92%    2.512MiB / 3.841GiB   0.06%     796B / 0B     0B / 0B       11
+093e03cb4e6e   busybox-victim-1   76.53%    2.539MiB / 3.841GiB   0.06%     1.09kB / 0B   73.7kB / 0B   11
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED         STATUS         PORTS     NAMES
+b333d20d8180   busybox   "sh"      2 minutes ago   Up 2 minutes             busybox-victim-5
+8ec5768e98cd   busybox   "sh"      2 minutes ago   Up 2 minutes             busybox-victim-4
+a451450bb929   busybox   "sh"      2 minutes ago   Up 2 minutes             busybox-victim-3
+de7556989401   busybox   "sh"      2 minutes ago   Up 2 minutes             busybox-victim-2
+093e03cb4e6e   busybox   "sh"      2 minutes ago   Up 2 minutes             busybox-victim-1
+
+CPU and Memory Usage:
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O     PIDS
+b333d20d8180   busybox-victim-5   77.35%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+8ec5768e98cd   busybox-victim-4   75.85%    2.48MiB / 3.841GiB    0.06%     866B / 0B     0B / 0B       11
+a451450bb929   busybox-victim-3   74.52%    2.5MiB / 3.841GiB     0.06%     796B / 0B     0B / 0B       11
+de7556989401   busybox-victim-2   75.96%    2.512MiB / 3.841GiB   0.06%     866B / 0B     0B / 0B       11
+093e03cb4e6e   busybox-victim-1   61.27%    504KiB / 3.841GiB     0.01%     1.09kB / 0B   73.7kB / 0B   1
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
+CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[H[2JContainer Status:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+CPU and Memory Usage:
