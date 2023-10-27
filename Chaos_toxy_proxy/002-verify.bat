@@ -1,5 +1,2 @@
 @echo off
-
-REM Verify nginx-victim is serving content
-echo Verifying nginx-victim:
-docker exec nginx-victim curl localhost
+echo Please open a web browser and go to http://localhost:8080 to verify nginx-victim.
