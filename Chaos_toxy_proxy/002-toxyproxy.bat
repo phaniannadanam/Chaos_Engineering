@@ -1,22 +1,11 @@
-@echo off
+:: Start the Toxiproxy container
+docker run -d --name toxiproxy -p 8474:8474 -p 8080:8080 shopify/toxiproxy
 
-REM Create the Toxiproxy container and bind it to the host's port 8080
-docker run -d --name toxiproxy -p 8474:8474 -p 8080:8080 shopify/toxiproxy:latest
-
-REM Give a moment for toxiproxy to start up
+:: Allow some time for Toxiproxy to start
 timeout /t 5
 
-REM Add a proxy for our nginx server
-docker exec toxiproxy curl -X POST localhost:8474/proxies -d '{
-  "name": "nginx_proxy",
-  "listen": "[::]:8080",
-  "upstream": "nginx-victim:80"
-}'
+:: Set up a new proxy for the victim service
+docker exec toxiproxy toxiproxy-cli create victim -l 0.0.0.0:8080 -u host.docker.internal:80
 
-REM Introduce chaos (e.g., latency of 1000ms)
-docker exec toxiproxy curl -X POST localhost:8474/proxies/nginx_proxy/toxics -d '{
-  "name": "latency_downstream",
-  "type": "latency",
-  "stream": "downstream",
-  "latency": 1000
-}'
+:: Introduce a latency of 5000ms (5 seconds)
+docker exec toxiproxy toxiproxy-cli toxic add victim -t latency -a latency=5000
