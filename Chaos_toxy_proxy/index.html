@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latency Test</title>
+    <script>
+        function checkLatency() {
+            let startTime = Date.now();
+            fetch("/timestamp")
+                .then(response => response.text())
+                .then(data => {
+                    let endTime = Date.now();
+                    let latency = endTime - startTime;
+                    document.getElementById("latencyDisplay").textContent = "Latency: " + latency + "ms";
+                })
+                .catch(error => {
+                    console.error("There was an error with the fetch operation:", error);
+                });
+        }
+
+        setInterval(checkLatency, 2000);  // Check every 2 seconds
+    </script>
+</head>
+<body>
+    <h1>Latency Test Page</h1>
+    <p id="latencyDisplay">Latency: N/A</p>
+    <button onclick="checkLatency()">Check Latency Now</button>
+</body>
+</html>
